@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShufflerTest", "ShufflerTest\ShufflerTest.csproj", "{A93FDB45-110D-446F-9B3B-0343CD43BE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A93FDB45-110D-446F-9B3B-0343CD43BE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93FDB45-110D-446F-9B3B-0343CD43BE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93FDB45-110D-446F-9B3B-0343CD43BE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93FDB45-110D-446F-9B3B-0343CD43BE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F53B677B-5F18-4294-AC9C-A705C2E8B479}
+	EndGlobalSection
+EndGlobal
