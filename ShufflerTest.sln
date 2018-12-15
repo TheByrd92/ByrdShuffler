@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShufflerTest", "ShufflerTest\ShufflerTest.csproj", "{A93FDB45-110D-446F-9B3B-0343CD43BE7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuffler", "Shuffler\Shuffler.csproj", "{435C912F-1244-4757-B484-DE1BBFE0D1E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A93FDB45-110D-446F-9B3B-0343CD43BE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A93FDB45-110D-446F-9B3B-0343CD43BE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A93FDB45-110D-446F-9B3B-0343CD43BE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435C912F-1244-4757-B484-DE1BBFE0D1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435C912F-1244-4757-B484-DE1BBFE0D1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435C912F-1244-4757-B484-DE1BBFE0D1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435C912F-1244-4757-B484-DE1BBFE0D1E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
