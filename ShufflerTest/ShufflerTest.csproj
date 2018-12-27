@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A93FDB45-110D-446F-9B3B-0343CD43BE7A}</ProjectGuid>
+    <ProjectGuid>{3488CCAE-A0D1-4980-9D17-47126E9AC2E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ShufflerTest</RootNamespace>
     <AssemblyName>ShufflerTest</AssemblyName>
@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Shuffler">
+      <HintPath>..\Shuffler\bin\Debug\Shuffler.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
